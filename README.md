@@ -47,9 +47,7 @@ How to reach me **ombhanushali005@gmail.com**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&color=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&color=black)
-
-
-
+![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white&color=black)
 <h2 align="start">
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHozaDluOTZmY2k0dTZ6NG43NWE3bDRidTg1Nm51aXF3emw5ZXJ4MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cj87CxfRtrUifF3Ryk/giphy.gif" alt="stats_animation" width="25" alt="GitHub Stats">
   GitHub Stats
