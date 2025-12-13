@@ -1,14 +1,6 @@
 <h1 align="center">Om Bhanushali</h1>
 <p align="center">software engineer</p>
 
-<p align="center">
-  <a href="mailto:ombhanushali005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ombhanushaliii/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
