@@ -14,3 +14,8 @@
 
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ombhanushaliii&show_icons=true&theme=react&hide_border=true" />
 <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ombhanushaliii&theme=react&hide_border=true" />
+
+
+
+<img src="https://komarev.com/ghpvc/?username=ombhanushaliii&label=views&color=7C7CFF&style=flat" />
+
