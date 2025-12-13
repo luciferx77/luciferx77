@@ -6,7 +6,7 @@
 
 ### tech stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,git,flutter,dart,c,cpp,python,solidity&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,git,flutter,dart,c,cpp,solidity&perline=7" />
 
 ---
 
